@@ -5,8 +5,6 @@
 **MERN Ecommerce** is a full-featured, **cloud-native ecommerce application** built with the **modern MERN stack (MongoDB, Express, React, Node.js)**.
 It integrates **Sass for modular styling**, **Docker for containerized development**, and **Vercel for serverless cloud deployment**, following best practices in scalability, maintainability, and CI/CD workflows.
 
-Developed by **Felix Sacco**, a **Fullstack Developer from the United States**, this project represents a production-grade implementation of today’s **modern web ecosystem** — combining flexible APIs, state management, cloud hosting, and developer-first tooling.
-
 ---
 
 ## ⚡ Highlights
@@ -133,12 +131,3 @@ Inside `.vscode/settings.json`:
 ```
 
 ---
-
-## 👨‍💻 About the Developer
-
-**Felix Sacco**
-*Fullstack Developer – United States*
-
-Building performant, cloud-ready web applications using **React**, **Node.js**, **Docker**, and **Sass**.
-Focused on **scalable architecture**, **developer productivity**, and **modern cloud infrastructure**.
-
